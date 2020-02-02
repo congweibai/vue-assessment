@@ -11,6 +11,15 @@
   </div>
 </template>
 
+<script>
+import Component3 from '@/components/Component3';
+export default {
+  components: {
+      Component3
+    }
+}
+</script>
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
