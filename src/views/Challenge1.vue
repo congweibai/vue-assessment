@@ -19,7 +19,7 @@
       return {
         msg: 'Congrats you have discovered the issue',
         //find escape character miss with ' \' '
-        msg2: 'Don\'t forget to commit this solutiom'
+        msg2: 'Don\'t forget to commit this solution'
       }
     }
   }
