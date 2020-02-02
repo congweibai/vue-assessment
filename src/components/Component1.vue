@@ -1,7 +1,7 @@
 <template>
     <div v-if="(text1.length + text2.length) > 0">
-        <p>{{text1}}</p>
-        <p>{{text2}}</p>
+        <p>{{ text1 }}</p>
+        <p>{{ text2 }}</p>
     </div>
 </template>
 
