@@ -1,7 +1,8 @@
 <template>
   <div class="challenge">
     <h1>Bug Challenge 3</h1>
-    <component-2 :Msg='msg' />
+    <!-- start with capital 'M', should be 'm' -->
+    <component-2 :msg='msg' />
   </div>
 </template>
 
