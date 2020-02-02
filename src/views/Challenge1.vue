@@ -8,9 +8,11 @@
 <script>
   export default {
     name: 'Challenge1',
-    data: {
-      msg: 'Congrats you have discovered the issue',
-      msg2: 'Don\t forget to commit this solutiom'
+    data() {
+      return {
+        msg: 'Congrats you have discovered the issue',
+        msg2: 'Don\t forget to commit this solutiom'
+      }
     }
   }
 </script>
